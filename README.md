@@ -1,4 +1,5 @@
 
+![logo](https://github.com/h3max0/shivfish/assets/125373593/c8305fa0-ed25-4a3a-9805-26e9400b7de3)
 
 shivFish v3.0
 
